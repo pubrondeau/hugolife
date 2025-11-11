@@ -1,6 +1,6 @@
 imports:
   # Content
-
+  - path: github.com/hugolify/hugolify-example-site
   # Core theme
   - path: github.com/hugolify/hugolify-theme
 
